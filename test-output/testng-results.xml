@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNG" duration-ms="111" started-at="2022-05-13T19:01:12 IST" finished-at="2022-05-13T19:01:12 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="111" started-at="2022-05-13T19:01:12 IST" finished-at="2022-05-13T19:01:12 IST">
+      <class name="TestNGProgram.TestNG6">
+        <test-method status="PASS" signature="pqr()[pri:1, instance:TestNGProgram.TestNG6@3aeaafa6]" name="pqr" duration-ms="0" started-at="2022-05-13T19:01:12 IST" finished-at="2022-05-13T19:01:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pqr -->
+        <test-method status="PASS" signature="xyz()[pri:2, instance:TestNGProgram.TestNG6@3aeaafa6]" name="xyz" duration-ms="0" started-at="2022-05-13T19:01:12 IST" finished-at="2022-05-13T19:01:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xyz -->
+      </class> <!-- TestNGProgram.TestNG6 -->
+      <class name="TestNGProgram.TestNG5">
+        <test-method status="PASS" signature="abc()[pri:1, instance:TestNGProgram.TestNG5@1b26f7b2]" name="abc" duration-ms="0" started-at="2022-05-13T19:01:12 IST" finished-at="2022-05-13T19:01:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+        <test-method status="PASS" signature="def()[pri:2, instance:TestNGProgram.TestNG5@1b26f7b2]" name="def" duration-ms="0" started-at="2022-05-13T19:01:12 IST" finished-at="2022-05-13T19:01:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- def -->
+      </class> <!-- TestNGProgram.TestNG5 -->
+    </test> <!-- Test -->
+  </suite> <!-- TestNG -->
+</testng-results>
